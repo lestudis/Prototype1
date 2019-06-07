@@ -13,7 +13,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     private TextView mTextMessage;
     private FragmentManager fragmentManager = getSupportFragmentManager();
-//    private RecyclerView recyclerView;
+//    private RecyclerView recyclerView; test
 //    private RecyclerView.Adapter mAdapter;
 //    private RecyclerView.LayoutManager layoutManager;
 
